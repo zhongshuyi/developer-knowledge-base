@@ -20,6 +20,8 @@ order: 3
   - [elasticsearch](/数据库/elasticsearch)
     - [1-索引](/数据库/elasticsearch/1-索引.md)
     - [2-数据类型](/数据库/elasticsearch/2-数据类型.md)
+  - [MySQL](/数据库/MySQL)
+    - [MySQL 优化](/数据库/MySQL/MySQL优化.md)
 
 ## 学习网站
 

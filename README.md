@@ -39,6 +39,8 @@
   - [elasticsearch](/数据库/elasticsearch)
     - [1-索引](/数据库/elasticsearch/1-索引.md)
     - [2-数据类型](/数据库/elasticsearch/2-数据类型.md)
+  - [MySQL](/数据库/MySQL)
+    - [MySQL 优化](/数据库/MySQL/MySQL优化.md)
 - [工具](/工具)
   - [Git](/工具/Git)
     - [Git 常用基础操作](/工具/Git/Git%20常用基础操作.md)
