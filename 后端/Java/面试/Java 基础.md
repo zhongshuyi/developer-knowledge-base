@@ -15,7 +15,7 @@ String 对象是不可变的，而 StringBuffer 和 StringBuilder 是可变字�
 
 String 由于有 final 修饰，是 immutable 的，安全性是简单而纯粹的。StringBuilder 和 StringBuffer 的区别在于 StringBuilder 不保证同步，也就是说如果需要线程安全需要使用 StringBuffer，不需要同步的 StringBuilder 效率更高，StringBuffer 类中的方法都添加了 synchronized 关键字，由此来实现同步。
 
-Java9 改进了字符串（包括 String、StringBuffer、StringBuilder）的实现。在 Java9 以前字符串采用 char[]数组来保存字符，因此字符串的每个字符占2字节；而Java9的字符串采用byte[]数组再加一个encoding-flag字段来保存字符，因此字符串的每个字符只占1字节。所以Java9的字符串更加节省空间，字符串的功能方法也没有受到影响。
+Java9 改进了字符串（包括 String、StringBuffer、StringBuilder）的实现。在 Java9 以前字符串采用 char[]数组来保存字符，因此字符串的每个字符占 2 字节；而 Java9 的字符串采用 byte[]数组再加一个 encoding-flag 字段来保存字符，因此字符串的每个字符只占 1 字节。所以 Java9 的字符串更加节省空间，字符串的功能方法也没有受到影响。
 
 ## final、finalize 和 finally 的不同之处？
 
