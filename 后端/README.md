@@ -25,6 +25,7 @@ order: 1
       - [4 数据类型](/后端/Java/基础/4数据类型.md)
       - [5 运算符](/后端/Java/基础/5运算符.md)
       - [6 分支与循环](/后端/Java/基础/6分支与循环.md)
+      - [并发编程](/后端/Java/基础/并发编程.md)
     - [框架](/后端/Java/框架)
       - [Spring Boot](/后端/Java/框架/Spring%20Boot)
         - [自动化配置](/后端/Java/框架/Spring%20Boot/自动化配置.md)
