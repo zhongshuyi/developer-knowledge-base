@@ -1,3 +1,7 @@
+---
+order: 1
+---
+
 # MySQL
 
 [8.0 官方文档](https://dev.mysql.com/doc/refman/8.0/en/)
